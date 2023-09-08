@@ -1,0 +1,1 @@
+A simple program created to learn python, credit to https://www.youtube.com/watch?v=th4OBktqK1I
